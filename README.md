@@ -4,3 +4,5 @@ This data set consists of three types of entities: (a) the specification of an a
 The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc...), and represents the average loss per car per year. 
 
 Note: Several of the attributes in the database could be used as a "class" attribute.
+
+In this repository, I've shown my approach towards the problem and have tried to encounter the several business prospects I can fulfil when dealing with dataset related to automobiles.
